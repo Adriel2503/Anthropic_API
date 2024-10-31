@@ -10,4 +10,4 @@ En este repositosio se explorara el uso de la API de Claude 3 con python para ge
 ## Notebook
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
-[Anthropic - Notebook](Anthropic_API_python.ipynb)
+[Anthropic - Notebook](Anthropic_API.ipynb)
